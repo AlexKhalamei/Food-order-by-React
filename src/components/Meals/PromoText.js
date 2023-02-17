@@ -3,15 +3,15 @@ import styles from "./PromoText.module.css";
 const PromoText = () => {
   return (
     <section className={styles["promo-text"]}>
-      <h2>Онлайн Суши Ресторан Япона Кухня</h2>
+      <h2>Online Sushi Restaurant "Rolls"</h2>
       <p>
-        Япона Кухня - это онлайн суши-ресторан, в котором любимые суши и сашими,
-        роллы и другие блюда национальной японской кухни делает команда
-        профессиональных поваров.
+        Rolls - is an online sushi restaurant where your favorite sushi,
+        sashimi, rolls and other dishes of Japanese national cuisine is prepared
+        by a team of professional chefs.
       </p>
       <p>
-        Быстрая работа и качественная продукция, а также самые настоящие
-        компоненты придают хороший вкус блюдам, дарят наслаждение от трапезы.
+        Fast work and quality products, as well as the most real components give
+        a good taste to the dishes, give the pleasure of the meal.
       </p>
     </section>
   );
