@@ -5,29 +5,30 @@ import MealItem from "./MealItem/MealItem";
 const DUMMY_MEALS = [
   {
     id: "m1",
-    name: 'Ролл "Наоми"',
-    description:
-      "Сыр Филадельфия, куриное филе, масаго, помидор, огурец, кунжут",
-    price: 11.99,
+    name: "Philadelphia with salmon",
+    description: "salmon, nori, cucumber, rice, cream cheese",
+    price: 9.99,
   },
   {
     id: "m2",
-    name: "Спайс в лососе",
-    description: "Рис, лосось, соус спайс",
-    price: 3.99,
+    name: "Enigma",
+    description:
+      "nori, rice, cream cheese, unagi sauce, tuna, avocado, mango, japanese tamago omelette, japanese mayonnaise",
+    price: 7.99,
   },
   {
     id: "m3",
-    name: "Суши с угрем",
-    description: "Угорь копченый, соус унаги, кунжут",
-    price: 4.99,
+    name: "Fukuro",
+    description:
+      "salmon, nori, rice, unagi sauce, avocado, snow crab, pistachios, goose pate, cane sugar",
+    price: 5.99,
   },
   {
     id: "m4",
-    name: 'Салат "Поке с лососем"',
+    name: "Green Dragon",
     description:
-      "Рис, лосось, огурец, чука, нори, стружка тунца, соус ореховый",
-    price: 7.99,
+      "nori, rice, cream cheese, unagi sauce, avocado, shrimp, mango, mango-pineapple sauce",
+    price: 8.99,
   },
 ];
 
